@@ -67,4 +67,5 @@ python src/main.py
 
 ## Ссылки
 - Проект-референс ScoreSight: [GitHub](https://github.com/royshil/scoresight)
+
 - Короткое видео: [YouTube](https://www.youtube.com/watch?v=ADShJdItYC4&ab_channel=RoyShilkrot) 
