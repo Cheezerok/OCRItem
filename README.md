@@ -64,8 +64,3 @@ python src/main.py
 
 ## DPI/Масштабирование Windows
 Если масштабирование экрана не 100%, координаты ROIs могут смещаться. Запускайте игру и приложение на одном мониторе и проверяйте корректность выделений. При необходимости заново выделите ROIs под текущий масштаб.
-
-## Ссылки
-- Проект-референс ScoreSight: [GitHub](https://github.com/royshil/scoresight)
-
-- Короткое видео: [YouTube](https://www.youtube.com/watch?v=ADShJdItYC4&ab_channel=RoyShilkrot) 
